@@ -1,0 +1,1 @@
+These are demos for the POO lab held by assistant `Stan Andrei` and helper `Rusu Bogdan`.
